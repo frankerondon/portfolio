@@ -1,0 +1,94 @@
+
+#section1 {
+	padding-top:50px;
+	height:500px;
+	/*color: #fff;*/ 
+	/*background-color: #1E88E5;*/
+	/*background-color: #7FFF00;*/
+}
+
+#section2 {
+	padding-top:50px;
+	height:500px;
+	/*color: #fff;*/ 
+	/*background-color: #673ab7;*/
+}
+
+#section3 {
+	padding-top:50px;
+	height:500px;
+	/*color: #fff;*/ 
+	/*background-color: #ff9800;*/
+}
+
+#section4 {
+	padding-top:50px;
+	height:500px;
+	/*color: #fff;*/ 
+	/*background-color: #00bcd4;*/
+}
+
+#logo{
+	width:100px; 
+	height:100px;
+}
+
+.navbar-brand{
+	padding:0px;
+	/*height: 0px;
+	font-size: 50px;
+	line-height: 150px;*/
+}
+
+.navbar-brand>img{
+	height: 200%;
+	padding:13px;
+	margin-top: -3px;
+	width: auto;
+
+}
+
+html{ 
+	background: url(../Images/background_select.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.navbar{
+	min-height: 100px;
+	padding-top: 0;
+}
+
+
+.navbar-nav>li>a{
+    /*line-height: 100px;*/
+    /*height: 150px;*/
+    padding-top: 30px;
+    font-size: 200%;
+}
+
+.navbar-inner {
+    min-height: 100px;
+}
+
+.navbar .divider-vertical{
+	border-left: 1px solid #666;
+	border-right: 1px solid #666:;
+
+}
+
+.navbar-toggle{
+	padding: 30px 20px;
+	margin-bottom: 8px;
+	margin-right: 12px;
+	margin-top: 10px;
+	border: 3px solid transparent;
+	border-radius: 21px;
+
+}
+
+.container-fluid{
+
+}

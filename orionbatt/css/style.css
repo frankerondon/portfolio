@@ -1,0 +1,46 @@
+
+#section1 {
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	/*background-color: #1E88E5;*/
+	background-color: #7FFF00;
+}
+
+#section2 {
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: #673ab7;
+}
+
+#section3 {
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: #ff9800;
+}
+
+#section4 {
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: #00bcd4;
+}
+
+#logo{
+	width:100px; 
+	height:100px;
+}
+
+.navbar-brand{
+	padding:0px;
+}
+
+.navbar-brand>img{
+	height: 120%;
+	padding:13px;
+	margin-top: -3px;
+	width: auto;
+}
+

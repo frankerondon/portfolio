@@ -1,0 +1,82 @@
+12N14-BS
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：14
+Dimension(mm)	：132*89*163
+Approx Weight(kg)	：3.84
+Carton Size(cm)	：28.3*27.6*17.3
+Q’ty/ Ctn(pcs)	：6
+Q’ty/ 20’gp(pcs)	：6570
+Polarity Direction	：- +
+
+
+12N12-BS
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：12
+Dimension(mm)	：150*86*131
+Approx Weight(kg)	：3.45
+Carton Size(cm)	：37.5*33.6*14.8
+Q’ty/ Ctn(pcs)	：8
+Q’ty/ 20’gp(pcs)	：7104
+Polarity Direction	：+ -
+
+
+12N6.5-BS
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：6.5
+Dimension(mm)	：149*85*93
+Approx Weight(kg)	：2.48
+Carton Size(cm)	：37*33.5*11.2
+Q’ty/ Ctn(pcs)	：8
+Q’ty/ 20’gp(pcs)	：9904
+Polarity Direction	：+ -
+
+
+YT9A-BS
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：9
+Dimension(mm)	：150*86*107
+Approx Weight(kg)	：2.62
+Carton Size(cm)	：35.5x31.5x12
+Q’ty/ Ctn(pcs)	：8
+Q’ty/ 20’gp(pcs)	：9744
+Polarity Direction	：+ -
+
+
+12N9-BS(12N10)
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：9
+Dimension(mm)	：136*76*134
+Approx Weight(kg)	：2.77
+Carton Size(cm)	：32x28.5x14.5
+Q’ty/ Ctn(pcs)	：8
+Q’ty/ 20’gp(pcs)	：9016
+Polarity Direction	：+ -
+
+
+YT7-BS(12N7-BS)
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：7
+Dimension(mm)	：149*85*93
+Approx Weight(kg)	：2.47
+Carton Size(cm)	：35.5x31.5x10.4
+Q’ty/ Ctn(pcs)	：8
+Q’ty/ 20’gp(pcs)	：10168
+Polarity Direction	：+ -
+
+
+12N9-BS(12N7L)
+Standard	：GB
+Voltage(V)	：12
+Capacity(Ah)	：9
+Dimension(mm)	：136*76*134
+Approx Weight(kg)	：2.77
+Carton Size(cm)	：32x28.5x14.5
+Q’ty/ Ctn(pcs)	：8
+Q’ty/ 20’gp(pcs)	：9016
+Polarity Direction	：+ -
