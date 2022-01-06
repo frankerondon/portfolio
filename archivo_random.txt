@@ -96,6 +96,17 @@ $git push
 
 
 
+Apendice A)
+	Si se quiere ir verificando el estado de la transaccion luego de cada instruccion, puede tipear el siguiente comando:
+		-git status
+
+
+
+
+
+
+
+
 
 
 
