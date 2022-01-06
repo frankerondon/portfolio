@@ -456,8 +456,9 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">OrionBatt</h2>
                                     <p class="item-intro text-muted">Website Design</p> 
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-									
+									<!-- 
+									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									-->
 									<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/frame_safari_light_oriobatt.png" alt="" />
 									<ul></ul>
 									
@@ -521,9 +522,9 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">E&J Global Solutions</h2>
                                     <p class="item-intro text-muted">Website Design</p>
-                                    
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    
+                                    <!-- 
+									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									-->
 									<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/frame_safari_light_ejglobalsolutions.png" alt="" />
 									<ul></ul>
 									
@@ -587,8 +588,9 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">RocaSuministros</h2>
                                     <p class="item-intro text-muted">Website Design</p>
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    
+									<!--  
+									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									-->
 									<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/frame_safari_light_rocasuministros.png" alt="" />
 									<ul></ul>
 									
@@ -652,8 +654,9 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">SN Integrity</h2>
                                     <p class="item-intro text-muted">Website Design</p>
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    
+									<!--  
+									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									-->
 									<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/frame_safari_light_snintegrity.png" alt="" />
 									<ul></ul>
 									
@@ -718,13 +721,15 @@
                                     <h2 class="text-uppercase">Datacenter Maintenance</h2>
                                     <p class="item-intro text-muted">Video</p>	
 									<!-- 
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/05-full.jpg" alt="" />
+									<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/05-full.jpg" alt="" />
 									-->
 									<iframe width="560" height="315" src="https://www.youtube.com/embed/Chmh5FwMFTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 									<br/>
 									<br/>
 									<br/>
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									<!-- 
+									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									-->
                                     <ul class="list-inline">
                                         <li>Date: November 2020</li>
                                         <li>Client: Southwest</li>
@@ -763,13 +768,15 @@
                                     <h2 class="text-uppercase">Arduino Project</h2>
                                     <p class="item-intro text-muted">Personal Project</p>
 									<!-- 
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/06-full.jpg" alt="" />
+									<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/06-full.jpg" alt="" />
 									-->
 									<iframe width="560" height="315" src="https://www.youtube.com/embed/i10LzlXH-hU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 									<br/>
 									<br/>
 									<br/>
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									<!-- 
+									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									-->
                                     <ul class="list-inline">
                                         <li>Date: January 2021</li>
                                         <li>Client: Window</li>
