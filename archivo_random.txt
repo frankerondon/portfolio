@@ -1,0 +1,108 @@
+Backend Enviroment
+-NodeJS
+
+
+
+
+
+
+
+Front-end Library
+-
+
+
+
+
+
+LAN network management and installation.
+Implementation, support and maintenance of servers and systems.
+Analysis, vulnerability and risk management in web applications and IT infrastructures.
+
+
+
+
+
+
+<i class="fab fa-node"></i>
+
+
+<i class="fab fa-react"></i>
+
+<i class="fab fa-vuejs"></i>
+
+
+
+
+
+
+
+
+
+
+
+<i class="fas fa-file-code"></i>
+<i class="far fa-file-code"></i>
+
+
+
+<i class="fab fa-wordpress-simple"></i>
+
+
+
+
+
+
+
+
+@media (min-width: 1200px)			styles.css:10400
+.timeline > li {
+    min-height: 50px;		****
+}
+
+
+@media (min-width: 768px)			styles.css:10351
+.timeline > li {
+    min-height: 61px;
+    margin-bottom: 50px;
+}
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+::::>>>Comandos para usar git:
+
+1. Irnos al path donde se encuentra el root del proyecto 
+2. $git init
+3. $git add .
+4. $git commit -m "Mensaje del commit o comentario"
+5. Crear el repositorio en github sin readme.md (Eso se crea ya de ultimo)
+6. $git remote add origin https://github.com/frankerondon/ejglobal_website.git
+7. $git branch -M main				[Aqui se selecciona el Branch del proyecto]
+8. $git push -u origin main
+
+
+::::>>>Eliminar archivos del repositorio:
+9.  $git rm nombre_archivo.extension
+10. $git commit -m "mensaje"
+11. $git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
