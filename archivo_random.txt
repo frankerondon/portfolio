@@ -88,9 +88,10 @@ Analysis, vulnerability and risk management in web applications and IT infrastru
 
 
 
-
-
-
+::::>>>Agregando nuevos archivo al branch ppal de Github
+$git add .
+$git commit -m "Probando agregando archivo nuevo a git"
+$git push
 
 
 
