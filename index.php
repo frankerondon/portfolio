@@ -87,13 +87,13 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>Frank Rondon</h4>
-                                <h4 class="subheading">Full Stack Developer</h4>
+                                <h4 class="subheading">Software Developer</h4>
                             </div>
                             <div class="timeline-body">
 							<!--  
 							<p class="text-muted">Soy un desarrollador de Aplicaciones Full Stack, tengo la capacidad de crear una aplicación web desde cero, tomando en cuenta los requerimientos y requisitos necesarios para el proyecto, desde el concepto y el maquetado (UI), la programación, y la experiencia del usuario (UX). Me apasiona la investigacion sobre nuevas tendencias y tecnologias. Tengo la capacidad de escribir código bien diseñado y eficiente utilizando las mejores prácticas. Autodidacta capaz de dominar una gran variedad de lenguajes de programación, frameworks, librerías y herramientas web.</p>
 							-->
-							<p class="text-muted">I am a Full Stack Application developer, I have the ability to create a web application from scratch, taking into account the requirements and necessary requirements for the project, from the concept and layout (UI), programming, and user experience (UX). I am passionate about researching new trends and technologies. I have the ability to write well-designed and efficient code using best practices. Self-taught and able to master a wide variety of programming languages, frameworks, libraries and web tools.</p>
+							<p class="text-muted">I'm a Software Developer, I've the expertise to make software from scratch, considering often projects requirements since layout concept (Frontend) to logic programming aimed at problem solving (Backend). I like to research about new trends in the market tech or a new ideas, because I possess abilities to write well-designed and efficient code using best practices. Self-taught and able to master a wide variety of programming languages, frameworks, libraries and another tools.</p>
 							</div>
                         </div>
                     </li>
